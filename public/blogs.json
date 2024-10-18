@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover_image": "https://i.ibb.co.com/tDyxRrQ/blog-cover-resized.jpg",
+    "author_profile_picture": "https://i.ibb.co.com/KDNwkNT/author-pro-Pic.jpg",
+    "author_name": "Jane Doe",
+    "posting_date": "2024-10-01",
+    "estimated_reading_time": 5,
+    "post_title": "Exploring the Wonders of Nature",
+    "hashtags": ["#Nature", "#Adventure", "#Travel"]
+  },
+  {
+    "id": 2,
+    "cover_image": "https://i.ibb.co.com/tDyxRrQ/blog-cover-resized.jpg",
+    "author_profile_picture": "https://i.ibb.co.com/KDNwkNT/author-pro-Pic.jpg",
+    "author_name": "John Smith",
+    "posting_date": "2024-10-05",
+    "estimated_reading_time": 8,
+    "post_title": "10 Tips for Healthy Living",
+    "hashtags": ["#Health", "#Wellness", "#Lifestyle"]
+  },
+  {
+    "id": 3,
+    "cover_image": "https://i.ibb.co.com/tDyxRrQ/blog-cover-resized.jpg",
+    "author_profile_picture": "https://i.ibb.co.com/KDNwkNT/author-pro-Pic.jpg",
+    "author_name": "Emily Johnson",
+    "posting_date": "2024-10-10",
+    "estimated_reading_time": 4,
+    "post_title": "The Art of Minimalism",
+    "hashtags": ["#Minimalism", "#Design", "#Home"]
+  },
+  {
+    "id": 4,
+    "cover_image": "https://i.ibb.co.com/tDyxRrQ/blog-cover-resized.jpg",
+    "author_profile_picture": "https://i.ibb.co.com/KDNwkNT/author-pro-Pic.jpg",
+    "author_name": "Michael Brown",
+    "posting_date": "2024-10-12",
+    "estimated_reading_time": 6,
+    "post_title": "Understanding Blockchain Technology",
+    "hashtags": ["#Blockchain", "#Technology", "#Finance"]
+  },
+  {
+    "id": 5,
+    "cover_image": "https://i.ibb.co.com/tDyxRrQ/blog-cover-resized.jpg",
+    "author_profile_picture": "https://i.ibb.co.com/KDNwkNT/author-pro-Pic.jpg",
+    "author_name": "Sophia Wilson",
+    "posting_date": "2024-10-15",
+    "estimated_reading_time": 7,
+    "post_title": "Mastering the Art of Cooking",
+    "hashtags": ["#Cooking", "#Food", "#Recipes"]
+  }
+]
