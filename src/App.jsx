@@ -9,8 +9,13 @@ function App() {
   const [spentTimeOnReading, setSpentTimeOnReading] = useState(0);
 
   const handleAddToBookMark = (blog) => {
-    const newBookMarks = [...bookMarks, blog];
-    setBookMarks(newBookMarks);
+    const isAlreadyBookmarked = bookMarks.some(
+      (bookmark) => bookmark.id === blog.id
+    );
+    if (!isAlreadyBookmarked) {
+      const newBookMarks = [...bookMarks, blog];
+      setBookMarks(newBookMarks);
+    }
   };
 
   const handleMarkAsRead = (readingTime, postTitle) => {
